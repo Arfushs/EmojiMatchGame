@@ -1,0 +1,255 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d634cdddc2d7c1468921c73a6a8ab83, type: 3}
+  m_Name: LevelList
+  m_EditorClassIdentifier: 
+  levels:
+  - emojis:
+    - "\u2600\uFE0F"
+    - "\u2602\uFE0F"
+    - "\U0001F34E"
+    - "\U0001F431"
+    - "\U0001F393"
+    words:
+    - Gunes
+    - Semsiye
+    - Elma
+    - Kedi
+    - Mezuniyet
+  - emojis:
+    - "\u26BD"
+    - "\U0001F697"
+    - "\U0001F3E0"
+    - "\U0001F35E"
+    - "\U0001F4DA"
+    words:
+    - Futbol
+    - Araba
+    - Ev
+    - Ekmek
+    - Kitap
+  - emojis:
+    - "\U0001F3AE"
+    - "\U0001F436"
+    - "\U0001F9C3"
+    - "\U0001F308"
+    - "\U0001F6CF\uFE0F"
+    words:
+    - Oyun
+    - Kopek
+    - Meyve Suyu
+    - Gokkusagi
+    - Yatak
+  - emojis:
+    - "\U0001F355"
+    - "\u23F0"
+    - "\U0001F4A1"
+    - "\U0001F3B5"
+    - "\u2708\uFE0F"
+    words:
+    - Pizza
+    - Alarm
+    - Fikir
+    - Muzik
+    - Ucak
+  - emojis:
+    - "\U0001F4BB"
+    - "\U0001F381"
+    - "\U0001F4F7"
+    - "\U0001F9F9"
+    - "\U0001F319"
+    words:
+    - Bilgisayar
+    - Hediye
+    - Fotograf
+    - Supurge
+    - Ay
+  - emojis:
+    - "\U0001F96A"
+    - "\U0001F6D2"
+    - "\U0001F511"
+    - "\U0001F9F8"
+    - "\U0001F9FC"
+    words:
+    - Sandvic
+    - Market
+    - Anahtar
+    - Oyuncak
+    - Sabun
+  - emojis:
+    - "\U0001F3D6\uFE0F"
+    - "\U0001F3C3\u200D\u2642\uFE0F"
+    - "\U0001F3A4"
+    - "\U0001F9C1"
+    - "\U0001F50B"
+    words:
+    - Plaj
+    - Kosmak
+    - Mikrofon
+    - Cupcake
+    - Pil
+  - emojis:
+    - "\U0001F4E6"
+    - "\U0001F6CE\uFE0F"
+    - "\U0001F56F\uFE0F"
+    - "\U0001F941"
+    - "\U0001F576\uFE0F"
+    words:
+    - Kutu
+    - Zil
+    - Mum
+    - Davul
+    - Gozluk
+  - emojis:
+    - "\U0001FA7A"
+    - "\U0001F48A"
+    - "\U0001FA79"
+    - "\U0001F9EA"
+    - "\U0001F9EC"
+    words:
+    - Stetoskop
+    - Ilac
+    - Yara Bandi
+    - Deney
+    - Genetik
+  - emojis:
+    - "\U0001F6F0\uFE0F"
+    - "\U0001F30C"
+    - "\U0001FA90"
+    - "\U0001F680"
+    - "\u2604\uFE0F"
+    words:
+    - Uydu
+    - Galaksi
+    - Gezegen
+    - Roket
+    - Kuyrukluyildiz
+  - emojis:
+    - "\U0001F9E0"
+    - "\u2696\uFE0F"
+    - "\U0001F4BC"
+    - "\U0001F575\uFE0F"
+    - "\U0001F4C8"
+    words:
+    - Beyin
+    - Adalet
+    - Canta
+    - Dedektif
+    - Grafik
+  - emojis:
+    - "\U0001F5FA\uFE0F"
+    - "\U0001F9ED"
+    - "\U0001F3D4\uFE0F"
+    - "\U0001F9D7"
+    - "\u26FA"
+    words:
+    - Harita
+    - Pusula
+    - Dag
+    - Tirmanis
+    - Cadir
+  - emojis:
+    - "\U0001F3F0"
+    - "\U0001F4DA"
+    - "\U0001F9F1"
+    - "\U0001FAB5"
+    - "\u2694\uFE0F"
+    words:
+    - Kale
+    - Tarih
+    - Tugla
+    - Tahta
+    - Kilic
+  - emojis:
+    - "\U0001F3A4"
+    - "\U0001F3A7"
+    - "\U0001F3B9"
+    - "\U0001F3BB"
+    - "\U0001F4F8"
+    words:
+    - Sarki
+    - Muzik
+    - Piyano
+    - Keman
+    - Kamera
+  - emojis:
+    - "\U0001F468\u200D\U0001F3EB"
+    - "\U0001F9D1\u200D\U0001F4BB"
+    - "\U0001F477"
+    - "\U0001F468\u200D\U0001F52C"
+    - "\U0001F46E"
+    words:
+    - Ogretmen
+    - Yazilimci
+    - Isci
+    - Bilim Insani
+    - Polis
+  - emojis:
+    - "\U0001F40D"
+    - "\U0001F982"
+    - "\U0001F988"
+    - "\U0001F985"
+    - "\U0001F996"
+    words:
+    - Yilan
+    - Akrep
+    - Kopekbaligi
+    - Kartal
+    - Dinozor
+  - emojis:
+    - "\U0001F4A3"
+    - "\U0001F5E1\uFE0F"
+    - "\U0001F52B"
+    - "\U0001F6E1\uFE0F"
+    - "\U0001F3F9"
+    words:
+    - Bomba
+    - Hancer
+    - Tabanca
+    - Kalkan
+    - Yay
+  - emojis:
+    - "\U0001F52E"
+    - "\U0001F9D9"
+    - "\U0001F984"
+    - "\U0001F47B"
+    - "\U0001F47D"
+    words:
+    - Kristal
+    - Buyucu
+    - Tekboynuz
+    - Hayalet
+    - Uzayli
+  - emojis:
+    - "\U0001F4E1"
+    - "\U0001F4BE"
+    - "\U0001F5A5\uFE0F"
+    - "\U0001F9E0"
+    - "\U0001F916"
+    words:
+    - Sinyal
+    - Disket
+    - Monitor
+    - Yapay Zeka
+    - Robot
+  - emojis:
+    - "\U0001F9E8"
+    - "\U0001F30B"
+    - "\U0001F32A\uFE0F"
+    - "\U0001F30A"
+    - "\U0001F525"
+    words:
+    - Patlama
+    - Volkan
+    - Hortum
+    - Tsunami
+    - Alev

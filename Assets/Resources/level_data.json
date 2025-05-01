@@ -1,0 +1,82 @@
+[
+  {
+    "emojis": ["☀️", "☂️", "🍎", "🐱", "🎓"],
+    "words":  ["Gunes", "Semsiye", "Elma", "Kedi", "Mezuniyet"]
+  },
+  {
+    "emojis": ["⚽", "🚗", "🏠", "🍞", "📚"],
+    "words":  ["Futbol", "Araba", "Ev", "Ekmek", "Kitap"]
+  },
+  {
+    "emojis": ["🎮", "🐶", "🧃", "🌈", "🛏️"],
+    "words":  ["Oyun", "Kopek", "Meyve Suyu", "Gokkusagi", "Yatak"]
+  },
+  {
+    "emojis": ["🍕", "⏰", "💡", "🎵", "✈️"],
+    "words":  ["Pizza", "Alarm", "Fikir", "Muzik", "Ucak"]
+  },
+  {
+    "emojis": ["💻", "🎁", "📷", "🧹", "🌙"],
+    "words":  ["Bilgisayar", "Hediye", "Fotograf", "Supurge", "Ay"]
+  },
+  {
+    "emojis": ["🥪", "🛒", "🔑", "🧸", "🧼"],
+    "words":  ["Sandvic", "Market", "Anahtar", "Oyuncak", "Sabun"]
+  },
+  {
+    "emojis": ["🏖️", "🏃‍♂️", "🎤", "🧁", "🔋"],
+    "words":  ["Plaj", "Kosmak", "Mikrofon", "Cupcake", "Pil"]
+  },
+  {
+    "emojis": ["📦", "🛎️", "🕯️", "🥁", "🕶️"],
+    "words":  ["Kutu", "Zil", "Mum", "Davul", "Gozluk"]
+  },
+  {
+    "emojis": ["🩺", "💊", "🩹", "🧪", "🧬"],
+    "words":  ["Stetoskop", "Ilac", "Yara Bandi", "Deney", "Genetik"]
+  },
+  {
+    "emojis": ["🛰️", "🌌", "🪐", "🚀", "☄️"],
+    "words":  ["Uydu", "Galaksi", "Gezegen", "Roket", "Kuyrukluyildiz"]
+  },
+  {
+    "emojis": ["🧠", "⚖️", "💼", "🕵️", "📈"],
+    "words":  ["Beyin", "Adalet", "Canta", "Dedektif", "Grafik"]
+  },
+  {
+    "emojis": ["🗺️", "🧭", "🏔️", "🧗", "⛺"],
+    "words":  ["Harita", "Pusula", "Dag", "Tirmanis", "Cadir"]
+  },
+  {
+    "emojis": ["🏰", "📚", "🧱", "🪵", "⚔️"],
+    "words":  ["Kale", "Tarih", "Tugla", "Tahta", "Kilic"]
+  },  
+  {
+    "emojis": ["🎤", "🎧", "🎹", "🎻", "📸"],
+    "words":  ["Sarki", "Muzik", "Piyano", "Keman", "Kamera"]
+  },  
+  {
+    "emojis": ["👨‍🏫", "🧑‍💻", "👷", "👨‍🔬", "👮"],
+    "words":  ["Ogretmen", "Yazilimci", "Isci", "Bilim Insani", "Polis"]
+  },
+  {
+    "emojis": ["🐍", "🦂", "🦈", "🦅", "🦖"],
+    "words":  ["Yilan", "Akrep", "Kopekbaligi", "Kartal", "Dinozor"]
+  },
+  {
+    "emojis": ["💣", "🗡️", "🔫", "🛡️", "🏹"],
+    "words":  ["Bomba", "Hancer", "Tabanca", "Kalkan", "Yay"]
+  },
+  {
+    "emojis": ["🔮", "🧙", "🦄", "👻", "👽"],
+    "words":  ["Kristal", "Buyucu", "Tekboynuz", "Hayalet", "Uzayli"]
+  },
+  {
+    "emojis": ["📡", "💾", "🖥️", "🧠", "🤖"],
+    "words":  ["Sinyal", "Disket", "Monitor", "Yapay Zeka", "Robot"]
+  },
+  {
+    "emojis": ["🧨", "🌋", "🌪️", "🌊", "🔥"],
+    "words":  ["Patlama", "Volkan", "Hortum", "Tsunami", "Alev"]
+  }
+]
